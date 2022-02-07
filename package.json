@@ -1,0 +1,22 @@
+{
+  "name": "bvc_token",
+  "version": "1.0.0",
+  "description": "BattleVerse coin contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BattleVerseIo/BVC_token.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BattleVerseIo/BVC_token/issues"
+  },
+  "homepage": "https://github.com/BattleVerseIo/BVC_token#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2"
+  }
+}
